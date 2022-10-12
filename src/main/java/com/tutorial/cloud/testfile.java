@@ -1,2 +1,0 @@
-public case testfile{
-}
